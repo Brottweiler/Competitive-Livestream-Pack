@@ -1,6 +1,8 @@
 Competative Livestream Resource Pack
 ====================================
 
+>A Minecraft resource pack for livestreamers that stream competitive minecraft games. This resource pack includes multiple tweaks that help livestreamers show the gameplay, such as fullbright and clearer water.
+
 # Features
 - Blocks
     - Clear glass (CTM support!)
