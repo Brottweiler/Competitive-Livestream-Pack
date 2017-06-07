@@ -7,8 +7,8 @@ Competitive Livestream Resource Pack
 - Blocks
     - Clear glass (CTM support!)
     - Clearer water
-    - Obvious trapped chest
-    - Obvious pressure plates and buttons
+    - Easily spot trapped chest
+    - Easily spot pressure plates and buttons
 - Environment
     - Fullbright
     - No weather
