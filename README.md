@@ -14,7 +14,7 @@ Competitive Livestream Resource Pack
     - Outlined obsidian
 - Environment
     - Fullbright
-    - No weather
+    - No weather or clouds
     - Clear end sky
 - GUI
     - Invisible hotbar, crosshair and compass
