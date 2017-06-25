@@ -12,6 +12,7 @@ Competitive Livestream Resource Pack
     - Easily spot trapped chest
     - Easily spot pressure plates and buttons
     - Outlined obsidian
+    - Easily see through spawners
 - Environment
     - Fullbright
     - No weather or clouds
@@ -28,3 +29,4 @@ Competitive Livestream Resource Pack
 # Credits
 - Multiple textures from [Plast Pack](https://github.com/Plastix/Plast-Pack)
 - Transparent particle idea from [OCN Livestream Pack](https://youtu.be/CfOc9_vCvGk)
+- Spawner idea from [ShinyDialga](https://github.com/ShinyDialga/Livestreamer-Pack)
