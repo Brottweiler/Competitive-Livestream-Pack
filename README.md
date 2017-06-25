@@ -25,6 +25,7 @@ Competitive Livestream Resource Pack
 - Misc
     - Better enchantment glint
     - Half transparent potion particles
+    - Bow power indicator
 
 # Credits
 - Multiple textures from [Plast Pack](https://github.com/Plastix/Plast-Pack)
