@@ -25,6 +25,7 @@ Competitive Livestream Resource Pack
 - Misc
     - Better enchantment glint
     - Half transparent potion particles
+    - "+1" critical hit particles
     - Bow power indicator
 
 # Credits
